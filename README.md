@@ -2,10 +2,13 @@
 A simple web application that checks if a given word is a palindrome. A palindrome is a word that reads the same backward as forward, such as "level" or "radar."
 
 # Features
-Allows the user to input a word.
-Validates whether the word is a palindrome.
-Provides real-time feedback to the user.
-Basic responsive design with HTML and CSS
+ *  Allows the user to input a word.
+   
+*  Validates whether the word is a palindrome.
+
+ *  Provides real-time feedback to the user.
+   
+ *  Basic responsive design with HTML and CSS
 
 # Technologies Used
 HTML: Structure of the application.
