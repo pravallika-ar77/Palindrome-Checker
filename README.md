@@ -20,11 +20,11 @@ A simple web application that checks if a given word is a palindrome. A palindro
 
 PalindromeChecker/
 
-├── index.html    # HTML structure
+├── index.html                                     # HTML structure
 
-├── style.css     # Styling of the application
+├── style.css                                     # Styling of the application
 
-├── script.js     # JavaScript functionality
+├── script.js                                      # JavaScript functionality
 
 
 
