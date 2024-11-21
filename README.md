@@ -31,7 +31,9 @@ PalindromeChecker/
 
 # How It Works
  1 . Enter a word in the input box.
+ 
 2 . Click the Check button.
+
 3 . The application will display:
    * A success message if the word is a palindrome.
   * An error message if it is not.
