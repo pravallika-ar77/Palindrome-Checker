@@ -11,18 +11,16 @@ A simple web application that checks if a given word is a palindrome. A palindro
  *  Basic responsive design with HTML and CSS
 
 # Technologies Used
-HTML: Structure of the application.
-CSS: Styling and layout of the page.
-JavaScript: Functionality to check for palindromes.
+* HTML: Structure of the application.
+* CSS: Styling and layout of the page.
+* JavaScript: Functionality to check for palindromes.
 
 #  How to Run the Project
-Clone this repository to your local machine using:
-bash
-Copy code
+ * Clone this repository to your local machine using:
+bash                                            Copy code
 git clone <repository-url>
 Navigate to the project folder:
-bash
-Copy code
+bash                                            Copy code
 cd PalindromeChecker
 Open the index.html file in your browser.
 
