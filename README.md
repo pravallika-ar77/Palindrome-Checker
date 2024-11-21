@@ -15,25 +15,23 @@ A simple web application that checks if a given word is a palindrome. A palindro
 * CSS: Styling and layout of the page.
 * JavaScript: Functionality to check for palindromes.
 
-#  How to Run the Project
- * Clone this repository to your local machine using:
-bash                                            Copy code
-git clone <repository-url>
-Navigate to the project folder:
-bash                                            Copy code
-cd PalindromeChecker
-Open the index.html file in your browser.
 
 # File Structure
-plaintext
-Copy code
+
 PalindromeChecker/
+
 ├── index.html    # HTML structure
+
 ├── style.css     # Styling of the application
+
 ├── script.js     # JavaScript functionality
-  #How It Works
-Enter a word in the input box.
-Click the Check button.
-The application will display:
-A success message if the word is a palindrome.
-An error message if it is not.
+
+
+
+
+# How It Works
+ 1 . Enter a word in the input box.
+2 . Click the Check button.
+3 . The application will display:
+   * A success message if the word is a palindrome.
+  * An error message if it is not.
